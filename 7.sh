@@ -1,0 +1,6 @@
+name="test"
+echo "${name}'s ss"
+echo "$name's ss"
+echo "string lenght ; ${#name}"
+echo "${name:2}"
+echo "${name:2:3}"
